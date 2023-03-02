@@ -1,0 +1,27 @@
+.row 
+{
+    display: flex;
+}
+
+#image{
+	height: inherit;
+	width: 600px;
+    height: 700px;
+}
+
+.heading{
+	margin-top: 150px;
+    color: rgb(90, 94, 90);
+    font-size: xx-large;
+} 
+
+.col1{
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.btn{
+    width: 50px;
+    height: 25px;
+    border-radius: 10px;
+    border-color: antiquewhite;
+}
